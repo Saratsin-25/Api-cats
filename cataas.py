@@ -15,7 +15,6 @@ def load_image():
         print(f"Ошибка {e}")
         return None
 
-from pygame.examples.aliens import load_image
 
 window = Tk()
 window.title("Cats")
